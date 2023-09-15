@@ -1,0 +1,19 @@
+{
+  "name": "chrm",
+  "version": "2.0.0",
+  "description": "Cypress framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subhanqureshi/CHRM.git"
+  },
+  "author": "Ali Raza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subhanqureshi/CHRM/issues"
+  },
+  "homepage": "https://github.com/subhanqureshi/CHRM#readme"
+}
