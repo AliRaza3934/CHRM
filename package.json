@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/subhanqureshi/CHRM/issues"
   },
-  "homepage": "https://github.com/subhanqureshi/CHRM#readme"
+  "homepage": "https://github.com/subhanqureshi/CHRM#readme",
+  "devDependencies": {
+    "cypress": "^13.2.0",
+    "cypress-cucumber-preprocessor": "^4.3.1"
+  },
+    "cypress-cucumber-preprocessor":{
+      "nonGlobalStepDefinition": true,
+      "step_definitions": "cypress/e2e/HRM"
+  
+  }
 }
